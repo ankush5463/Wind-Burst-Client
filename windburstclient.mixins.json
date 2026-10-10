@@ -1,1 +1,12 @@
+{
+  "required": true,
+  "package": "net.vortex.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
 
