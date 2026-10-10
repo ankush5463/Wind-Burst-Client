@@ -1,2 +1,9 @@
-# Wind-Burst-Client
-a Minecraft client
+{
+  "required": true,
+  "package": "com.yourname.windburstclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
